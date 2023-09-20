@@ -1,6 +1,3 @@
-This is my own version.
-Add second line.
-
 # Map Levels
 Mark your footprint using these simple apps
 
